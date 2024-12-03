@@ -1413,11 +1413,8 @@
 		"stats": []
 	},
 	"N290": {
-		"name": "Heartstopper",
-		"stats": [
-			"Take 75% less Damage over Time if you've started taking Damage over Time in the past second",
-			"Take 50% more Damage over Time if you haven't started taking Damage over Time in the past second"
-		]
+		"name": "N290",
+		"stats": []
 	},
 	"N291": {
 		"name": "Stand Ground",
